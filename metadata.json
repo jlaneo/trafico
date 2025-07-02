@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Tráfico",
+  "description": "Una aplicación web para monitorear el estado del tráfico en tus rutas habituales, recibir análisis y notificaciones personalizadas para planificar mejor tus viajes.",
+  "requestFramePermissions": []
+}
